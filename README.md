@@ -6,9 +6,7 @@
 
 <h2>📝 Descrição</h2>
 
-<p>Explique o que o projeto faz e qual a ideia geral:
-
-- Ex.: “Projeto simples que exibe a hora atual em tempo real com atualização automática.”</p>
+<p>“Projeto simples que exibe a hora atual em tempo real com atualização automática, com design elegante e clean, com fundo gradiente personalizavel.”</p>
 
 <br>
 
