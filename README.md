@@ -36,7 +36,7 @@
 
 <h2>📸 Screenshots ou GIFs</h2>
 
-![Demonstração](assets\relogio.gif)
+![Demonstração](assets\reloginho.png)
 
 <br>
 
